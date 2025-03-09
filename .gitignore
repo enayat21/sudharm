@@ -23,3 +23,4 @@ yarn-error.log
 /bootstrap/cache/*
 /database/*.sqlite
 storage/debugbar
+/public/theme/pages
